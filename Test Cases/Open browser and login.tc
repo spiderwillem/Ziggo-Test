@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login and logout</name>
+   <name>Open browser and login</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>f0cd69a0-13ce-4f71-90e0-affd686bab13</testCaseGuid>
